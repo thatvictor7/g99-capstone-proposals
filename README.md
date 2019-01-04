@@ -5,29 +5,32 @@ Please complete this project proposal thoroughly so that your instructors can re
 * [Requirements (flexible)](https://gist.github.com/matt-winzer/745abaadb509371dfee2a756c8da0c5e)
 
 ## Project Description
-
+I'm going to build a music mobile app, that allows you to create a party similar to xbox live party. You can create, and join existing parties. You can search for songs and add them to the parties queu. On that queu, users can give votes to songs on there,the higher the vote number is the higher in the queu the song goes, you can also down vote a song.
 
 
 ## Problem Statement
-
+Problem is that when you're in social settings listening to music can be a pain because people don't know what to play or whose in control. 
 
 
 ## How will your project solve this problem?
-
+This app let's everyone be in control, everyone can add their favorite songs to the queu and also plays music that's more popular.
 
 
 ## 5 user stories (at least):
 
-*
-*
-*
-*
-*
+*User logs into existing account.
+*Nav bar at the bottom, with home button, party button, and music button
+*Party page, theres a button to find friends and start party with them
+*Party page, button to join existing party.
+*Invite page, theres a list of your frinds, when you click on them theres an option to invite them.
+*Join page will show a list of friends with active parties, and option to join party.
+
 
 ## What technologies do you plan to use?
 
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
+*Vue-Native
 *
 
 ## ERD - Entity Relationship Diagram
